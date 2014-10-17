@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kci:home|Door43 (kci)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kci|d43-kci repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kci/archive/master.zip|d43-kci.zip]]
+
+**Recent Changes**
+{{changes>ns = kci}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kci|Ethnologue data]]
+
